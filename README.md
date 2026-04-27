@@ -26,6 +26,10 @@ My current interests include machine learning, natural language processing, back
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
+### Reinforcement Learning
+
+![Gymnasium](https://img.shields.io/badge/Gymnasium-0081A5?style=for-the-badge&logo=python&logoColor=white)
+
 ### Natural Language Processing
 
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
