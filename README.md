@@ -1,6 +1,6 @@
 # Hi, I'm Dimitar Dimov
 
-Computer Science & Engineering student at **FINKI**.  
+Software Engineering student at **FINKI**.  
 I am interested in research, learning deeply, and constantly improving as a developer.
 
 I enjoy working on projects that combine theory, practical engineering, and experimentation.
