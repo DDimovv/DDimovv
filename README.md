@@ -3,26 +3,7 @@
 Software Engineering student at **FINKI**.  
 I am interested in research, learning deeply, and constantly improving as a developer.
 
-I enjoy working on projects that combine theory, practical engineering, and experimentation.
-
----
-
-## About Me
-
-I am a Computer Science student who likes understanding how things work under the hood.
-
 My current interests include machine learning, natural language processing, backend systems, and software engineering. I am especially interested in building projects that help me learn better design, cleaner code, and more reliable systems.
-
-I enjoy working on:
-
-- Machine learning and NLP experiments
-- Transformer-based systems and language models
-- Backend applications and REST APIs
-- Databases and data-driven applications
-- Research-oriented projects
-- Clean, maintainable software
-- Dockerized and deployable applications
-- CI/CD workflows and scalable deployment
 
 ---
 
@@ -32,6 +13,8 @@ I enjoy working on:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Machine Learning and Data Science
@@ -75,19 +58,14 @@ I enjoy working on:
 
 ## Research and Learning Interests
 
+- Machine learning and NLP experiments
+- Transformer-based systems and language models
+- Backend applications and REST APIs
+- Databases and data-driven applications
+- Research-oriented projects
+- Clean, maintainable software
+- Dockerized and deployable applications
+- CI/CD workflows and scalable deployment
+
 ```text
-Transformer architectures
-Large language models
-Natural language processing
-Fine-tuning pretrained models
-LoRA and parameter-efficient tuning
-Named Entity Recognition
-Embedding models
-Tokenization
-Attention mechanisms
-Evaluation pipelines
-Custom datasets and tokenizers
-Backend architecture
-Distributed systems
-Containerization and deployment
-CI/CD workflows
+
